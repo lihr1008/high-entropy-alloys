@@ -7,4 +7,4 @@ NO_model: clustering model of adsorbing NO molecule on AgAuCuPdPt high entropy a
 
 O2_model: clustering model of adsorbing O2 molecule on AgAuCuPdPt high entropy alloys
 
-adsorption sites of each cluster
+adsorption sites: CO adsorption sites of each cluster 
