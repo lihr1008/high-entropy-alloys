@@ -1,5 +1,6 @@
 # high-entropy-alloys
 folders:
+
 CO_model: clustering model of adsorbing CO molecule on AgAuCuPdPt high entropy alloys
 
 NO_model: clustering model of adsorbing NO molecule on AgAuCuPdPt high entropy alloys
